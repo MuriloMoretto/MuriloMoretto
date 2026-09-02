@@ -4,10 +4,6 @@
   Computer Science student at Universidade Sagrado Coração (USC).
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuriloMoretto&label=Visualiza%C3%A7%C3%B5es%20do%20Perfil&color=0e75b6&style=flat" alt="Visualizações do perfil" />
-</p>
-
 ---
 
 ## 🚀 Projetos em Destaque
@@ -53,22 +49,16 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MuriloMoretto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMoretto&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuriloMoretto&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="center">
-  <!-- Adicione aqui seus links de LinkedIn, e-mail, etc. Exemplo: -->
-  <!-- <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="mailto:murilomoretto21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/murilo_moretto_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/murilo-moretto-9949b8365" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
