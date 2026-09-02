@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Murilo Moretto 👋</h1>
+<h1 align="center"> Hello, welcome to my profile! Learn more about my projects below:</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por criar soluções interativas — de apps mobile a ambientes de Realidade Virtual.
+  Computer Science student at Universidade Sagrado Coração (USC).
 </p>
 
 <p align="center">
