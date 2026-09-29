@@ -40,11 +40,11 @@
 ## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,python,js,html,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=cs,python,js,html,flutter,dart,git,mysql,postgresql" />
 </p>
 
 <p align="center">
-  <strong>Legend:</strong> C# • Python • JavaScript (intermediate) • HTML (intermediate) • Flutter • Dart
+  <strong>Legend:</strong> C# • Python • JavaScript (intermediate) • HTML (intermediate) • Flutter • Dart • Git • MySQL • PostgreSQL
 </p>
 
 ---
